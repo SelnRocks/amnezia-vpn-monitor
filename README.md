@@ -1,3 +1,5 @@
+# AmneziaVPN Clients Monitor 
+
 A lightweight, secure, and fast web-based monitoring dashboard for AmneziaVPN (AmneziaWG protocol) servers. This panel connects directly to your Docker containers, fetches live network stats from the Linux kernel, and displays client activity in a clean, auto-updating web interface.
 
 ## Features
